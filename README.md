@@ -6,6 +6,7 @@ Group members:
 2)Bashar Darya - 23B030286
 
 Project Description:
+
  Our team decided to do an online flower shop where users can browse, order floral arrangements, and create their own bouquets. 
  The platform includes a product catalog, shopping cart, order processing, and user reviews.
  
